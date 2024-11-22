@@ -8,11 +8,11 @@ The process involves extracting, tracking, and storing the coordinates and speed
 **The code to find coordinates is available in a zip file with the name predict.py along with the video.**\
 
 
-**Code to transform the dataset** : miniproj_transform.ipynb will be there in this file.
+**Code to transform the dataset** : miniproj_transform.py will be there in this file.
 
 
 
 **NOTE :  test_excel.xlsx is transform to xy_test.xlsc using above code both are present in zip file attached below.**
 
 
-**Trajectory prediction code** :  Trajectory_prediction.ipynb will be there in this file.
+**Trajectory prediction code** :  Trajectory_prediction.py will be there in this file.
